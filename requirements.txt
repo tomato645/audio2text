@@ -1,2 +1,2 @@
 streamlit-audiorecorder
-whisper
+git+https://github.com/openai/whisper.git
